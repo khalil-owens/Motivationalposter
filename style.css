@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    color: white;
+    font-variant: small-caps;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 25%;
+    border-color: white;
+    border-style: solid;
+    text-align: left;
+}
+.photo{
+    text-align: left;
+    border-width: 5px;
+
+}
+
+p{
+    text-align: center;
+    color: white;
+}
+
+body{
+    background-color: black;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
